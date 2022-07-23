@@ -16,16 +16,19 @@ Dapp Architecture
  
 
 User Flow
+![alt text](https://user-images.githubusercontent.com/108317502/180595308-884050bc-8d9d-4d9c-86c2-a01e0647dea8.png)
 
  
 
 How Trinity Bonds Work?
 
- 
+ ![alt text](https://user-images.githubusercontent.com/108317502/180595310-3e53bed6-1c94-4463-8c8c-d26a3b65145b.png)
+
 
 
 Trinity Bond Lifecycle
  
+![alt text](https://user-images.githubusercontent.com/108317502/180595312-17664a2f-2e5f-4a42-9803-75a7c5bac108.png)
 
 
 
