@@ -5,7 +5,7 @@
 As Bitcoin rises in value, the climate suffers. 
 
 
-![alt text](https://user-images.githubusercontent.com/108317502/180595305-de19a63c-c2b0-4df0-a510-fbb357b8ca14.png](https://user-images.githubusercontent.com/108317502/180596814-2f1b47de-224e-4f53-8d70-dacd57c9805a.png)
+![alt text](https://user-images.githubusercontent.com/108317502/180596814-2f1b47de-224e-4f53-8d70-dacd57c9805a.png)
 
 
 
