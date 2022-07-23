@@ -1,7 +1,7 @@
 
-Readme – Trinity Protocol
+ ## Readme – Trinity Protocol
 
- Trinity Protocol 
+ ##  Trinity Protocol 
 As Bitcoin rises in value, the climate suffers. 
 
 
