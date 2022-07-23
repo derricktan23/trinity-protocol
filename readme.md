@@ -2,7 +2,7 @@
 Readme – Trinity Protocol
 
  Trinity Protocol 
-Connecting Real World Green Projects to Defi Investors
+As Bitcoin rises in value, the climate suffers. 
 
 Links
 Deck:  https://drive.google.com/file/d/1kIgOOb-D6Zc9clTP2Dosr9_XjcZFo_S0/view?usp=sharing
@@ -13,6 +13,9 @@ Dapp V.1: https://trinity-front-end-3xr4wr.spheron.app/
 
 Video:  https://www.youtube.com/watch?v=ZByCaZFm814
 
+
+Connect Real World Green Projects to Defi Investors. 
+ 
 
   
 Dapp Architecture
